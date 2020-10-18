@@ -1,0 +1,46 @@
+Top fastest solves and times, *need to find acutal scramble in the database
+R' F R U' 0.49
+R U' R2' F' 0.58
+U' F' R' U  0.69
+Chose a random competion so we can use their scrambles and solves times for prediction 
+1592256	SantoDomingoWinter2020	222	d	A	0	2	U R' F R U' R F R' F U' F'
+1592257	SantoDomingoWinter2020	222	d	A	0	3	R' U2 R U2 R U2 F U' R U' R'
+1592258	SantoDomingoWinter2020	222	d	A	0	4	R' F U2 R2 U2 R' U R' U' F2 R
+1592259	SantoDomingoWinter2020	222	d	A	0	5	U2 R' F R U' R' F R' F R U'
+1592260	SantoDomingoWinter2020	222	d	A	1	1	U R' F U2 F R2 U2 R' U R' F2
+1592261	SantoDomingoWinter2020	222	d	A	1	2	U R' F' R U R2 F' U' R' U R'
+1592262	SantoDomingoWinter2020	222	d	B	0	1	R U2 R' U R2 F R U2 R' U' R
+1592263	SantoDomingoWinter2020	222	d	B	0	2	U' R' F R2 U' F' U' F U' F U
+1592264	SantoDomingoWinter2020	222	d	B	0	3	F U2 R U2 R U2 F' U' R' U2 R'
+1592265	SantoDomingoWinter2020	222	d	B	0	4	R' U2 R U' R F' U2 F' U2 R' U'
+1592266	SantoDomingoWinter2020	222	d	B	0	5	R F' R2 U' R U R' U F' U' F
+1592267	SantoDomingoWinter2020	222	d	B	1	1	R' F' R U2 R F' U' F' U' R U'
+1592268	SantoDomingoWinter2020	222	d	B	1	2	F R' F U' F' U2 R U R' U' F
+1592269	SantoDomingoWinter2020	222	d	C	0	1	R U' R' U R F' U R' F U F
+1592270	SantoDomingoWinter2020	222	d	C	0	2	U' R' F U' F2 R U F' R2 U2 R
+1592271	SantoDomingoWinter2020	222	d	C	0	3	U R' U' R U' F' R U2 R' F R
+1592272	SantoDomingoWinter2020	222	d	C	0	4	U2 R U' F' U' F' U2 R' U' R' F2
+1592273	SantoDomingoWinter2020	222	d	C	0	5	R2 U' R' U2 R' F' U' R2 U' R' U2
+1592274	SantoDomingoWinter2020	222	d	C	1	1	U' R U' R' F' R U' R U R' F
+1592275	SantoDomingoWinter2020	222	d	C	1	2	R U2 R F' U' R' U' R' F U R
+1592276	SantoDomingoWinter2020	222	d	D	0	1	U2 R' U2 F U R U2 R' U' R2 U
+1592277	SantoDomingoWinter2020	222	d	D	0	2	U2 R' F2 U' R U R' U2 F' R' U'
+1592278	SantoDomingoWinter2020	222	d	D	0	3	U2 R U2 R U2 R' U R' F U2 F'
+1592279	SantoDomingoWinter2020	222	d	D	0	4	U' R' U' R U R' U2 F U F2 U'
+1592280	SantoDomingoWinter2020	222	d	D	0	5	U' R' F U F U R U' R' U2 R
+1592281	SantoDomingoWinter2020	222	d	D	1	1	F R' U' R U' R U' R' U R' U2
+1592282	SantoDomingoWinter2020	222	d	D	1	2	U' R' U2 F U' F' R U2 F R U2
+1592283	SantoDomingoWinter2020	222	f	A	0	1	F R' U' R U R' U2 F R2 U' R2
+1592284	SantoDomingoWinter2020	222	f	A	0	2	U R U2 R2 F R U' R2 U F R2
+1592285	SantoDomingoWinter2020	222	f	A	0	3	R' U' F' R2 F U2 R' F U2 R U'
+1592286	SantoDomingoWinter2020	222	f	A	0	4	U' F' U' R2 U F R U' R' U R
+1592287	SantoDomingoWinter2020	222	f	A	0	5	U2 R' U2 R' F R U2 R F' R' U'
+1592288	SantoDomingoWinter2020	222	f	A	1	1	U2 R U2 R2 U' F' R2 U' R' U R'
+1592289	SantoDomingoWinter2020	222	f	A	1	2	U2 R' F2 U' F U2 R2 U' R2 U' R
+1592290	SantoDomingoWinter2020	222	f	B	0	1	U' R' U' R2 U' F R U R' F U
+1592291	SantoDomingoWinter2020	222	f	B	0	2	F R U2 R' U' F2 R U' R U' R'
+1592292	SantoDomingoWinter2020	222	f	B	0	3	U R' U F U' F R F U' R U'
+1592293	SantoDomingoWinter2020	222	f	B	0	4	R' F2 U2 R U2 R' U R' U' R2 U2
+1592294	SantoDomingoWinter2020	222	f	B	0	5	R' F R U' R' F U' R' F' U F
+1592295	SantoDomingoWinter2020	222	f	B	1	1	R2 U' R F U2 R U' R' F R U'
+1592296	SantoDomingoWinter2020	222	f	B	1	2	U' R' F U' R' F U' F U R U
