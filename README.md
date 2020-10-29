@@ -1,2 +1,2 @@
 # Py2Cube
-A cube solver using ML and bounded by restrictions 
+A 2x2x2 cube predictor using ML 
