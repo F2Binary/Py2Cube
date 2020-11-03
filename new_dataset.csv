@@ -1,51 +1,84 @@
-"ID","Time","Scramble"
-"1","19.55","R2 F2 U' F2 R' U R U F'"
-"2","12.35","U R U2 F' R2 F2 R2 F' U"
-"3","13.75","U R' U' F2 R U2 F2 U2 F2"
-"4","8.27","F2 R U2 F' U2 R2 F' R2 U'"
-"5","13.69","F' U2 F2 R2 F2 R U' F U2"
-"6","28.64","R2 U R2 U' R F' U2 F R'"
-"7","10.84","F R' F2 U2 F' U' F R' F'"
-"8","15.61","F' U' F2 U R F' R' F' U2"
-"9","18.06","U' R2 F2 R' F R F R U"
-"10","15.20","R' F U2 R U F R U R'"
-"11","16.84","R' U' F' R F2 R U2 R2 F"
-"12","10.43","R2 U' R' F' U R2 U F' U'"
-"13","10.19","U2 F' R U R' F R' F2 R2"
-"14","11.25","U' F2 R F U2 F U' R2 U"
-"15","5.22","F' R2 U' R' F2 R' F' U2 F"
-"16","13.99","F2 R2 U F R2 F R F2 U2"
-"17","21.10","F' R U R2 U2 R U F R U"
-"18","10.87","U' F' R2 U' R2 U2 R2 F' U'"
-"19","9.26","F' U' F' U' F' R2 F2 U' R'"
-"20","16.31","R' F' U R' U R U' F2 R2"
-"21","7.91","F2 U' F' R' U2 R' U2 F U'"
-"22","8.65","R U2 R U2 R2 F R2 U' F2"
-"23","14.51","R U2 R F' U R2 F2 U F2"
-"24","10.59","R' F2 U' F' R F R' U F"
-"25","19.29","R2 F2 U' F U2 R F U2 F"
-"26","13.11","F' U F U2 R' F' R F' R"
-"27","13.24","U' F2 U' R' U' F2 R' U F2"
-"28","13.06","R F U' F R U' R U' R"
-"29","21.88","U F' U F' U' R' U2 F2 R2"
-"30","10.00","R2 F2 U' F2 R' U R U F'"
-"31","6.03","U' F2 R U2 R' U' F R' F2"
-"32","14.26","U F R2 U2 F' R2 F2 U' R"
-"33","9.52","U F' R2 F2 U' R' F2 R2 F2"
-"34","6.92","F R U2 R U2 F R U' F2"
-"35","11.79","U' F2 R F2 U R' F' U' F"
-"36","8.73","F' U2 R F' U R U' F R'"
-"37","11.19","R' F' U' F U R' F' U' F2"
-"38","17.59","R' U R2 F' U F' R' U2 F"
-"39","16.28","U2 R F U2 F U2 R2 U' R2"
-"40","11.96","F' R U' R F R2 F2 U' R"
-"41","38.95","R F2 U F' R2 U' F2 U' R'"
-"42","15.33","F U F2 R2 F' R' F R F"
-"43","6.03","U R F U F U F U R'"
-"44","24.34","U2 F2 R2 F U2 R2 u' U' R2"
-"45","25.19","R' F2 R F U2 F2 R' F' R2"
-"46","17.92","R U R' F2 R2 U2 R U' R2"
-"47","7.63","U2 F' U R' F R U2 F' R2"
-"48","12.55","U' R F R' F2 U' R' F' R'"
-"49","20.44","F2 R2 F' R' F2 U2 F U2 F"
-"50","32.56","U F U2 F2 U2 R' F' R2 U2"
+"ID","Time","Scramble","Length_Scramble","Solution","Length_Solution","TPS","Outcome","Prediction"
+"1","19.55","R2 F2 U' F2 R' U R U F'","9","F U' R' U' R' F2 U' F2","8",
+"2","12.35","U R U2 F' R2 F2 R2 F' U","9","U' F' R2 F' U2 R' U'","7",
+"3","13.75","U R' U' F2 R U2 F2 U2 F2","9","F2 R F2 U' R U'","6",
+"4","8.27","F2 R U2 F' U2 R2 F' R2 U'","9","U R2 F U2 F' U2' R F2","8",
+"5","13.69","F' U2 F2 R2 F2 R U' F U2","9","U2 F' U R F2 R2 U2 F","8",
+"6","28.64","R2 U R2 U' R F' U2 F R'","9","R F' U2 F R' U R2 U' R2","9",
+"7","10.84","F R' F2 U2 F' U' F R' F'","9","R U F' U R' F U2 F","8",
+"8","15.61","F' U' F2 U R F' R' F' U2","9","U R U F2 R U' R' F'","8",
+"9","18.06","U' R2 F2 R' F R F R U","9","U2 R U2 F' R2 U' R2","7",
+"10","15.20","R' F U2 R U F R U R'","9","R2 F R U F' R U F2","8",
+"11","16.84","R' U' F' R F2 R U2 R2 F","9","F' R2 U' F R U' F2 U'","8",
+"12","10.43","R2 U' R' F' U R2 U F' U'","9","U F2 U R F' R2 F' R2","8",
+"13","10.19","U2 F' R U R' F R' F2 R2","9","U2 R F' U2 R2 U F' R2","8",
+"14","11.25","U' F2 R F U2 F U' R2 U","9","U' R U' F' R2 F' U F' U","9",
+"15","5.22","F' R2 U' R' F2 R' F' U2 F","9","R2 U R' U F U2 R U","8",
+"16","13.99","F2 R2 U F R2 F R F2 U2","9","R F' U F' R' U2 F R2","8",
+"17","21.10","F' R U R2 U2 R U F R U","9","F' U F2 R U F2 U' R F2","9",
+"18","10.87","U' F' R2 U' R2 U2 R2 F' U'","9","U F U2 R2 U' R2 F U","8",
+"19","9.26","F' U' F' U' F' R2 F2 U' R'","9","U R F U' F R' U'","7",
+"20","16.31","R' F' U R' U R U' F2 R2","9","U2 R F2 R' F R2 F R2 U","9",
+"21","7.91","F2 U' F' R' U2 R' U2 F U'","9","U F' U R' U F' R2 U' F'","9",
+"22","8.65","R U2 R U2 R2 F R2 U' F2","9","F2 U' R2 F R U2 R'","7",
+"23","14.51","R U2 R F' U R2 F2 U F2","9","R2 F' R2 U R' F2 R F'","8",
+"24","10.59","R' F2 U' F' R F R' U F","9","F R U F' U' F","6",
+"25","19.29","R2 F2 U' F U2 R F U2 F","9","F R2 U R' F2 U' R' U2","8",
+"26","13.11","F' U F U2 R' F' R F' R","9","F2 U F2 U R F U2 F2","8",
+"27","13.24","U' F2 U' R' U' F2 R' U F2","9","U2 F' R F' R' U F',"7",
+"28","13.06","R F U' F R U' R U' R","9","R' U R2 U F' U R U' R2","9",
+"29","21.88","U F' U F' U' R' U2 F2 R2","9","F2 U' F2 R U F2 R F2","8",
+"30","10.00","R2 F2 U' F2 R' U R U F'","9","F U' R' U' R'F2 U' F2","8",
+"31","6.03","U' F2 R U2 R' U' F R' F2","9","U' R2 U R F' U2","7",
+"32","14.26","U F R2 U2 F' R2 F2 U' R","9","R F2 R2 U' F' U2 R2 F' U'","9",
+"33","9.52","U F' R2 F2 U' R' F2 R2 F2","9","F U2 F U' F' U F'","7",
+"34","6.92","F R U2 R U2 F R U' F2","9","R' U F2 U' R F' U' R U","9",
+"35","11.79","U' F2 R F2 U R' F' U' F","9","F2 R2 U' F' R' F U'","7",
+"36","8.73","F' U2 R F' U R U' F R'","9","R F' U R' U' F R' U2 F","9",
+"37","11.19","R' F' U' F U R' F' U' F2","9","U R F' U F2 U2 F' R","8",
+"38","17.59","R' U R2 F' U F' R' U2 F","9","U2 R2 F2 U F' U R' U2 R'","9",
+"39","16.28","U2 R F U2 F U2 R2 U' R2","9","U2 R' F' U F' R2 F' R","8",
+"40","11.96","F' R U' R F R2 F2 U' R","9","U' R' F' R2 F' R2 U F R'","9",
+"41","38.95","R F2 U F' R2 U' F2 U' R'","9","R U R' U R' F R F","8",
+"42","15.33","F U F2 R2 F' R' F R F","9","R F R' F' R F2 U' F'","8",
+"43","6.03","U R F U F U F U R'","9","R2 U F U F U","6",
+"44","24.34","U2 F2 R2 F U2 R2 u' U' R2","9","R2 U F U2 F' U2 F2 R2","8",
+"45","25.19","R' F2 R F U2 F2 R' F' R2","9","U F2 U2 R F' R U2 R' F2","9",
+"46","17.92","R U R' F2 R2 U2 R U' R2","9","R2 U R F2 R2 U2 R' U' R'","9",
+"47","7.63","U2 F' U R' F R U2 F' R2","9","R2 F U2 R' F' R U' F U2","9",
+"48","12.55","U' R F R' F2 U' R' F' R'","9","U' F U F' R F2 R F U",9",
+"49","20.44","F2 R2 F' R' F2 U2 F U2 F","9","F R2 U R2 U2 F R U2 R2","9",
+"50","32.56","U F U2 F2 U2 R' F' R2 U2","9","U2 R2 F R F2 U2 F U'","8",
+"51","10.04","F2 R2 F R2 U' R' U2 R' U'","9","F R F2 R F R2 U' F2 U2","9,"
+"52","9.01","U R' F2 R' F2 R F U2 F2 R","10","U F' R U2 R2 F R F U2","9,"
+"53","16.21","R2 U2 F U F U2 R' F U',"9","F U' F U2 R' U' F' R2 U2","9,"
+"54","12.37","U' R F2 U R F U2 R F","9","U' F' U2 R' F' R' U' R","8,"
+"55","12.18","U F2 R' U R2 U' R2 U' F R'","10","U F' U' F R2 F R' F2 R U2","10,"
+"56","8.91","U2 R2 F R' U2 F U2","7","F2 U' R2 F R' U2 F2","7,"
+"57","16.38","R2 U R2 F' U F2 U'","7","F U2 F' R U2 F' U2","7,"
+"58","10.04","R F' U2 F' R F' U2 R2 U F2","10","U2 F R' U2 F R F2 R U'","9,"
+"59","17.07","U' F R2 F' R2 F U R2","8","R2 F' U' F2 U F2 U' F","8,"
+"60","13.93","U R' U2 F R' U2 F2 R' U2 R","10","U F R F U' F2 R F' U2 F","10,"
+"61","13.49","U' F' R' F U' F R2 U' R' F2","10","U F' R U' F U2 F2 R' F' U'","10,"
+"62","18.32","U2 F U2 F2 R' F U F2 R'","9","U F' U F' U R F' R' F","10,"
+"63","12.21","F R2 F U F' R F2 U'","8","F U2 R' F R' F' R2 F'","8,"
+"64","8.21","R F2 U' F U F2 U' R F R2","10","U R F' U F R U R2 U2 F2","10,"
+"65","7.45","U' F2 R2 U F' U F' R' F'","9","U F U F' R F' R2 U2 F","9,"
+"66","9.45","R U R U2 F2 U R U' F","9","U' R F' U F R2 U2 R U'","9,"
+"67","8.47","R F U R2 F2 U2 F' U R2","9","R2 F' U' F2 U F'","6,"
+"68","13.44","F2 U R' U2 R' F2 U' R","8","R U' F R2 U' R' F' R","8,"
+"69","18.23","R' F2 U2 F' R' F2 R' U' F2","9","U2 F U R2 U F U2 F2 R","9,"
+"70","16.38","R' F U2 F2 R' F' R F'","8","U F' U R F2 U2 F' U","8,"
+"71","17.23","U R F' U' F' U R F' U R","10","U F R U' R2 U R2 U' F2 R2","10,"
+"72","13.41","U' R' U2 R' U2 F U R U' F","10","U' R F' U' R' U2 F R2 F U","10,"
+"73","10.56","U R2 U R F2 R' U' R2 U2 F'","10","U R2 F2 U' F' U2 F R F2 U'","10,"
+"74","9.43","R U F R2 U2 F' U F","8","U' R' U F2 R2 U' R' F'","8,"
+"75","8.56","F R F2 U' R F R2 F2 U'","9","F U2 R2 U' R' U R2 F' R'","9,"
+"76","17.10","U' F U' F' R U2 F2 R U F'","10","U R U2 R F' R' F' U R' U2","10,"
+"77","16.24","R2 U2 R F2 R' F R' F2 U","9","R F' U F2 U R' F R2 F","9,"
+"78","8.3","F' R F2 U R' F' U F2 R","9","R' U2 F' R U R' F2 U' R","9,"
+"79","23.1","U2 R2 F' R F R' U F U F","10","U R2 U' R U F' R F R' U2","10,"
+"80","12.98","R2 U' F2 R' U R'","6","R F' R U2 F U2","6,"
+
+
+
