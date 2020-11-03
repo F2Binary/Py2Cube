@@ -1,4 +1,4 @@
-"ID","Time","Scramble","Length_Scramble","Solution","Length_Solution","TPS","Outcome","Prediction"
+"ID","Time","Scramble","Length_Scramble","Solution","Length_Solution","TPS"
 "1","19.55","R2 F2 U' F2 R' U R U F'","9","F U' R' U' R' F2 U' F2","8",
 "2","12.35","U R U2 F' R2 F2 R2 F' U","9","U' F' R2 F' U2 R' U'","7",
 "3","13.75","U R' U' F2 R U2 F2 U2 F2","9","F2 R F2 U' R U'","6",
