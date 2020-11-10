@@ -13,7 +13,6 @@ $ cd Py2Cube/Naive
 ```
 Here you will find two folder one labeled SVM and the other Naive
 # Usage
-Start off by cloning:
 ```
 $ python svm.py
 or
